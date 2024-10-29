@@ -5,6 +5,7 @@ int main() {
 
     printf("Enter the marks (0-100): ");
     scanf("%d", &marks);
+    printf("You got:\n");
 
     if (marks >= 90 && marks <= 99) {
         printf("Grade: A\n");
