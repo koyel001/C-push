@@ -1,3 +1,5 @@
+// File Reading in C: Display File Contents Character by Character
+
 #include <stdio.h>
 
 int main(void){

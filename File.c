@@ -1,4 +1,4 @@
-// File Handling in C
+// Write and Read Text File in C
 
 #include <stdio.h>
 #include <stdlib.h>
