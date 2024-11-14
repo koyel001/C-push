@@ -17,5 +17,5 @@ int main() {
 
     printf("Maximum element: %d\n", max);
 
-    return 0;
+    
 }
